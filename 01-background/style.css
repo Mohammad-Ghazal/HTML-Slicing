@@ -1,13 +1,14 @@
+html {
+  background: url(./image.jpg) no-repeat center center fixed;
+}
 body {
-  background-image: url(./image.jpg);
   color: white;
-  background-repeat: no-repeat;
   margin-top: 20%;
   margin-left: 20%;
   justify-items: justify;
-
   width: 80%;
 }
+
 h2 {
   justify-items: justify;
   font-weight: 100;

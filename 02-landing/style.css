@@ -1,0 +1,42 @@
+html {
+  background: url(./image.jpg) no-repeat center center fixed;
+}
+body {
+  margin-top: 20%;
+  justify-items: justify;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  width: 80%;
+}
+h5 {
+  word-spacing: 5px;
+  line-height: 1.8;
+  font-weight: 2px;
+}
+
+.container {
+  background-color: #90dda9af;
+  padding: 10%;
+  text-justify: justify;
+  justify-items: justify;
+}
+
+.header {
+  position: relative;
+  padding: 15px 0px;
+  background-color: #fff;
+  box-shadow: 0 0 10px #ddd;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-nav {
+  display: flex;
+}
+.main-header,
+a {
+  color: white;
+}
+li {
+  overflow: hidden;
+}
